@@ -1,0 +1,2 @@
+discord.py
+random-cat==1.0.1
